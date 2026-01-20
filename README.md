@@ -24,13 +24,3 @@ This project focuses on building a strong foundation in data analysis using real
 ## 📂 Dataset
 
 The dataset contains information about bank customers, including their category (active or canceled) and other attributes.
-
-> ⚠️ The dataset is not included in this repository for privacy reasons.
-
----
-
-## 🧩 Data Analysis Steps
-
-### 1. Importing Libraries
-```python
-import pandas as pd
